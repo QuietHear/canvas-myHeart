@@ -1,3 +1,5 @@
+# 功能展示
+[点此观看](https://quiethear.github.io/canvas-myHeart/canves%E5%8A%A8%E7%94%BB--%E7%94%BB%E5%BF%83.html "canvas画心")(建议右键新建窗口查看)
 # 说明文档
 > ### 使用步骤
 >> 1. 下载文件
