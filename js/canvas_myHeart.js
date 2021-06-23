@@ -15,7 +15,7 @@ let countdownAll = 7,//时间模板
     countdownCircleStep = 10,//画圈步数的时间间隔
     r = 9,//半径长度
     radian,//弧度
-    str = '我爱你巴库！',
+    str = '我爱你卢菲！',
     i = 0,//心得计数器
     textI = 0,//字的计数器
     radianDecrement,//弧度增量
